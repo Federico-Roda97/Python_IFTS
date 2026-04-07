@@ -1,0 +1,71 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Unit test / coverage
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# Mypy / type checking
+# =========================
+.mypy_cache/
+.dmypy.json
+
+# =========================
+# Pyre
+# =========================
+.pyre/
+
+# =========================
+# Ruff / Linter
+# =========================
+.ruff_cache/
+
+# =========================
+# PyCharm (optional)
+# =========================
+.idea/
