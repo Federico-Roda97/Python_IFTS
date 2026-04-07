@@ -1,0 +1,1 @@
+input ("Inserisci un numero: ") # è una funzione bloccante, inputritorna sempre e solo una stringa
