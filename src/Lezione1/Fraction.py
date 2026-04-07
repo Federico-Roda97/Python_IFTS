@@ -43,8 +43,7 @@ class Fraction:
     def __lt__(self, other):
         return self.numerator * other.denominator < other.numerator * self.denominator
 
-    f1 = Fraction(15,-9)
-    f2 = Fraction(-20,12)
+    
     
 
     
