@@ -1,4 +1,4 @@
-file = open("Lezione1/Dizionari/EsDizionari.py")
+file = open("Python_IFTS/Lezione1/Dizionari/EsDizionari.py")
 
 c = 0
 while True:
